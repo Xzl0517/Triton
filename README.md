@@ -16,3 +16,7 @@ triton实现权重矩阵行级量化 + 矩阵乘法
 triton实现 softmax  
 ## vector_add.py 
 triton实现 向量加法  
+## conv2d.py
+triton实现 2d卷积操作
+## act.py
+triton实现 Relu Leaky_relu sigmoid tanh Gelu Silu激活函数
